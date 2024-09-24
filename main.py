@@ -4,7 +4,7 @@ from datacleaner import DataCleaner
 from datasaver import DataSaver
 
 logging.basicConfig(
-    filename='C:/Users/Daniel/Documents/ec_utbildning/f_python3/pipeline.log',
+    filename='C:/Users/Daniel/Documents/ec_utbildning/F_rdjupad_Python/pipeline.log',
     format='[%(asctime)s][%(name)s] %(message)s', 
     datefmt='%Y-%m-%d %H:%M:%S', 
     level=logging.INFO)
